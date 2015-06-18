@@ -1,0 +1,6 @@
+io.write ("What's your name?  ")
+name = io.read()
+io.write ("Hey, " .. name .. ", whats your favorite color?  ")
+color = io.read()
+print ("Do you want to know what else is " .. color .. "?")
+print ("Deez nuts. \n HAH! GOT EEM!)
