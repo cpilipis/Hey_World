@@ -6,7 +6,7 @@ I do not know how to write in markdown, but i can figure it out. Maybe i should 
 
 I know how to write in _italicized_, and **bold**. What about _**both**_?
 
-+ Now i know how to  
+# Now i know how to:
 * Mess with text's looks with Bold and Italics,
 * Make Titles,
 * Put links,
